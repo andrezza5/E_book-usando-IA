@@ -1,6 +1,6 @@
 # README - Uma Jornada Simples na Análise de Dados
-Descrição do E-book
-Guia introdutório e prático para todos que desejam se aventurar no mundo da análise de dados. Este e-book é ideal para iniciantes, oferecendo explicações claras para facilitar a compreensão dos conceitos fundamentais de análise de dados, incluindo o processo ETL (Extração, Transformação e Carga) e o uso das principais ferramentas de análise.
+
+Este é um E_book criado através da IA como guia introdutório para todos que desejam se aventurar no mundo da análise de dados. Este e-book é ideal para iniciantes, oferecendo explicações claras para facilitar a compreensão dos conceitos fundamentais de análise de dados, incluindo o processo ETL (Extração, Transformação e Carga) e o uso das principais ferramentas de análise.
 
 Estrutura do E-book
 Capítulo 1: Introdução ao Mundo dos Dados
